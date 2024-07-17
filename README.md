@@ -14,3 +14,5 @@
 </div><br/>
 
 "Entusiasta de TI" 
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabialkmim&hide_progress=true)
