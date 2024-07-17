@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white])](https://www.linkedin.com/in/maria-gabriela-alkmim-b1b70a25a/)
 
 
-(![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=gabialkmim&show_icons=true&theme=tokyonight)
+![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=gabialkmim&show_icons=true&theme=tokyonight)
 
 ## Tecnologias que uso no meu dia
 
